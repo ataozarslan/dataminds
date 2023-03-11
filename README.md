@@ -1,6 +1,6 @@
-# Dataminds
-
 .. -*- mode: rst -*-
+
+**DATAMINDS**
 
 |PythonVersion|_ |PyPi|_
 
@@ -16,10 +16,10 @@
 
 **Dataminds** is designed for **easily evaluate your machine learning models in a simple way** (now only works regression and classification problems).
 
-## Installation
+Installation
 ------------
 
-### Dependencies
+Dependencies
 ~~~~~~~~~~~~
 
 Dataminds requires:
@@ -28,7 +28,7 @@ Dataminds requires:
 - Pandas (>= |PandasMinVersion|)
 - Scikit-Learn (>= |Scikit-LearnMinVersion|)
 
-### User Installation
+User Installation
 ~~~~~~~~~~~~~~~~~
 
 If you already have a working installation of numpy and scipy,
