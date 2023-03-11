@@ -44,7 +44,3 @@ or ``conda``::
 
     conda install dataminds
     
-
-
-
-The documentation includes more detailed `installation instructions <https://scikit-learn.org/stable/install.html>`_.
